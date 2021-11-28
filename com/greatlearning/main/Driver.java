@@ -13,7 +13,7 @@ public class Driver {
 	String firstName = sc.next();
 	System.out.println("Enter your last Name");
 	String lastName = sc.next();
-	
+	// show department
 	System.out.println("Choose your department");
 	System.out.println("1.Technical");
 	System.out.println("2.Admin");
